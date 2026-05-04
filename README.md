@@ -12,11 +12,7 @@ I'm **Julian Krieger**, a passionate developer crafting elegant solutions to com
 
 - 🔭 Software Site Reliability Engineer focused on DevSecOps and infrastructure automation
 - 🌱 Continuously learning new security practices, tools, and deployment strategies
-- 💡 Passionate about building resilient, secure, and scalable systems
-- 🤝 Always open to collaborating on infrastructure, security, and reliability challenges
-- 💬 Ask me about SRE practices, DevSecOps, infrastructure automation, and zero-trust architectures
 - 📫 [Reach out on LinkedIn](#) | [Say hello via Email](#)
-- ⚡ Fun fact: I believe code should be poetry for machines and humans alike
 
 ---
 
