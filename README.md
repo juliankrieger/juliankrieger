@@ -79,19 +79,6 @@ I'm **Julian Krieger**, a passionate developer crafting elegant solutions to com
 - Format-agnostic envelope framework with JWS & CBOR support
 - Support for modern algorithms: ECDSA, RSA-PSS, HMAC
 
-#### Project Structure
-
-```
-crates/
-├── envelope/              # Core signing & serialization framework
-├── envelope-jws/          # JSON Web Signature implementation
-├── cert-types/            # X.509 certificate utilities
-├── voucher/               # RFC 8366 voucher implementation
-├── voucher-analyzer/      # Helper binary for voucher analysis
-├── voucher-macros/        # Procedural macros
-└── est/                   # EST client & server implementations
-```
-
 #### Use Cases
 
 👨‍💼 **Device Manufacturers** — Issue and manage vouchers via MASA  
