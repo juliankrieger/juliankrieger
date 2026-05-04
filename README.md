@@ -3,18 +3,18 @@
 I'm **Julian Krieger**, a passionate developer crafting elegant solutions to complex problems.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+SRE;DevSecOps+Engineer;Infrastructure+Builder" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on impactful projects that make a difference
-- 🌱 Continuously learning new technologies and best practices
-- 💡 Passionate about clean code, architecture, and scalability
-- 🤝 Always open to collaborating on exciting ideas
-- 💬 Ask me about web development, system design, and software best practices
+- 🔭 Software Site Reliability Engineer focused on DevSecOps and infrastructure automation
+- 🌱 Continuously learning new security practices, tools, and deployment strategies
+- 💡 Passionate about building resilient, secure, and scalable systems
+- 🤝 Always open to collaborating on infrastructure, security, and reliability challenges
+- 💬 Ask me about SRE practices, DevSecOps, infrastructure automation, and zero-trust architectures
 - 📫 [Reach out on LinkedIn](#) | [Say hello via Email](#)
 - ⚡ Fun fact: I believe code should be poetry for machines and humans alike
 
@@ -26,23 +26,19 @@ I'm **Julian Krieger**, a passionate developer crafting elegant solutions to com
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend & Databases**
+**Infrastructure & DevOps**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Tools & Platforms**
@@ -53,17 +49,6 @@ I'm **Julian Krieger**, a passionate developer crafting elegant solutions to com
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliankrieger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliankrieger&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ### 🎯 Featured Project: BRSKI Collection
 
